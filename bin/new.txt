@@ -1,5 +1,0 @@
-[{"terminal":{"d":"T1","a":"T2"},"city":{"d":"北京","a":"上海"},"airport":{"d":"首都机场","a":"虹桥机场"},"weather":{"d":"1","a":"1"},"expectTime":{"d":"1329
-447071","a":"1329447071"},"ariline":"CA4321","temperature":{"d":"-4/4","a":"=3/3"},"company":"中国航空","actualTime":{"d":"1329447071","a":"1329447071"},"zon
-e":{"d":"UTC-1","a":"UTC+3"}},{"terminal":{"d":"T1","a":"T2"},"city":{"d":"北京","a":"上海"},"airport":{"d":"首都机场","a":"虹桥机场"},"weather":{"d":"1","a"
-:"1"},"expectTime":{"d":"1329447071","a":"1329447071"},"ariline":"CA4321","temperature":{"d":"-4/4","a":"=3/3"},"company":"中国航空","actualTime":{"d":"13294
-47071","a":"1329447071"},"zone":{"d":"UTC-1","a":"UTC+3"}}]
