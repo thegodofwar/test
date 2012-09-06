@@ -1,0 +1,1 @@
+(?is)<div class=.*?<li class=\"tab3\"><a href=\"(/Book/(\\d+?)/Index.aspx)\" title=\".*?\" target=\"_blank\">(.*?)</a></li>.*?<li class=\"tab4\"><a href=\"(.*?)\" title=\".*?\" target=\"_blank\">(.*?)</a></li>.*?<li class=\"tab5\">(.*?)</li>.*?<li class=\"tab6\">(.*?)</li>.*?</div>

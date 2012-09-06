@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="D:/liufukunProject20110627/new/test/lib/apache-mime4j-0.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/liufukunProject20110627/new/test/lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/liufukunProject20110627/new/test/lib/IKAnalyzer3.2.3Stable.jar"/>
+	<classpathentry kind="lib" path="D:/liufukunProject20110627/new/test/lib/lucene-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/bTrace/build/btrace-agent.jar"/>
+	<classpathentry kind="lib" path="D:/bTrace/build/btrace-boot.jar"/>
+	<classpathentry kind="lib" path="D:/bTrace/build/btrace-client.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/DevUser/桌面/httpclient4.1/httpcomponents-client-4.1.2/lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/DevUser/桌面/httpclient4.1/httpcomponents-client-4.1.2/lib/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/DevUser/桌面/httpclient4.1/httpcomponents-client-4.1.2/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
